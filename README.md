@@ -1,7 +1,7 @@
 # 📈 Black-Scholes Option Pricing & Visualization Web App
 
-**Author:** Rohit Hatwar  
-**LinkedIn:** [Rohit Hatwar](https://www.linkedin.com/in/rohit-hatwar-43730723b)
+**Author:** Manas Bhusari  
+**LinkedIn:** [Manas Bhusari](https://www.linkedin.com/in/manasbhusari/)
 
 ## 💡 Project Summary
 
